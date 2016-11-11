@@ -148,6 +148,7 @@ enum ath79_mach_type {
 	ATH79_MACH_RB_SXTLITE2ND,	/* Mikrotik RouterBOARD SXT Lite 2nD */
 	ATH79_MACH_RB_SXTLITE5ND,	/* Mikrotik RouterBOARD SXT Lite 5nD */
 	ATH79_MACH_RW2458N,		/* Redwave RW2458N */
+	ATH79_MACH_SC300M,		/* Abicom International SC300M */
 	ATH79_MACH_SMART_300,		/* NC-LINK SMART-300 */
 	ATH79_MACH_TELLSTICK_ZNET_LITE,	/* TellStick ZNet Lite */
 	ATH79_MACH_TEW_632BRP,		/* TRENDnet TEW-632BRP */

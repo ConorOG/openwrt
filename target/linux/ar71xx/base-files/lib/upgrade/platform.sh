@@ -253,6 +253,7 @@ platform_check_image() {
 	rocket-m-ti | \
 	nanostation-m-xw | \
 	rw2458n | \
+	sc300m | \
 	wpj531 | \
 	wndap360 | \
 	wpj342 | \

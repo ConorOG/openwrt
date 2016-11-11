@@ -261,6 +261,9 @@ get_status_led() {
 	rw2458n)
 		status_led="rw2458n:green:d3"
 		;;
+	sc300m)
+		status_led="sc300m:blue:power"
+		;;
 	smart-300)
 		status_led="nc-link:green:system"
 		;;
